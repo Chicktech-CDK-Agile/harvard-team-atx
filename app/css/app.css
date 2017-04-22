@@ -237,3 +237,8 @@
 
 #gameInProgress {
   font-size: 14px; }
+
+.myText {
+  font-size: large;
+  font-style: italic;
+}
